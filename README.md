@@ -7,7 +7,7 @@
 Building modern, scalable, and AI-powered web applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge)](https://www.mohamedbesha.tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohamed-besha-frikha-380609238/))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:medbesha@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=med-becha&label=Profile%20Views&color=0e75b6&style=flat-square" />
