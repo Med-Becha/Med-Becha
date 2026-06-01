@@ -94,5 +94,5 @@ Building modern, scalable, and AI-powered web applications.
 
 - Portfolio: https://www.mohamedbesha.tn
 - Email: medbesha@gmail.com
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- LinkedIn:https: https://www.linkedin.com/in/mohamed-besha-frikha-380609238
 
