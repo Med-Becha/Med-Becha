@@ -28,20 +28,18 @@ Building scalable SaaS platforms, AI-powered web applications, and modern user e
 
 # 👨‍💻 About Me
 
-Frontend Developer from Tunisia with professional experience building SaaS products, AI-powered features, and modern web applications.
+Full-Stack Developer from Tunisia with professional experience building SaaS products, AI-powered features, and modern web applications.
 
-Currently working on **Sociaboost**, a social media management platform built with React, Next.js, TypeScript, Redux Toolkit, and OpenAI integrations.
-
-I enjoy building scalable frontend architectures, AI-powered workflows, automation systems, and high-performance user experiences.
+I enjoy building scalable architectures, AI-powered workflows, automation systems, and high-performance user experiences.
 
 ---
 
 # 🚀 Experience Highlights
 
-### Frontend Developer @ Audasoft Technologies
+### Full-Stack Developer @ Audasoft Technologies
 
 - Building **Sociaboost**, a SaaS platform for social media management
-- Developing scalable applications using React, Next.js, and TypeScript
+- Developing scalable applications using React, Next.js, and Go (Golang)
 - Integrating OpenAI APIs for AI-assisted content generation
 - Managing complex application state with Redux Toolkit
 - Building reusable UI systems with Chakra UI and Tailwind CSS
@@ -66,7 +64,7 @@ I enjoy building scalable frontend architectures, AI-powered workflows, automati
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,go,fastapi" />
 </p>
 
 ### AI & Automation
